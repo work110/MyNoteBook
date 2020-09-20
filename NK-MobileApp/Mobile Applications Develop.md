@@ -24,7 +24,85 @@ AI（bigdata）
 
 
 
-Mobile History
+# android
+
+完全开源，无需审核缴费，覆盖平台广泛-手机，平板等
+
+版本号主要以零食名为主
+
+
+
+## 手机设备的软件栈
+
+操作系统
+
+中间件
+
+应用程序
+
+
+
+## android体系结构
+
+内核：linux内核 2.6版本，位于硬件与软件中抽象层
+
+
+
+系统类库：媒体库，高级语言库，数据库，图形库
+
+运行时runtime：java虚拟机，java转化为dex可执行文件（可以反编译）
+
+
+
+### JVM与DVM
+
+安卓和java也有不同
+
+jvm-jar包
+
+dvm-apk包dex（改为zip，之后可以获得解压源文件）
+
+
+
+### 框架层与应用层
+
+软件（app开发者开发）
+
+软件架构（手机厂商进行定制）
+
+
+
+## android应用框架
+
+activity
+
+broadcast receive
+
+service
+
+content provide
+
+
+
+## android常用组件包
+
+android。xxx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
