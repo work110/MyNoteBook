@@ -1,5 +1,11 @@
 # Unity Notebook
 
+unity关联修复
+
+vs2017可以直接调试
+
+vs2019需要在调试按钮中进行调试
+
 # Time
 
 ## Time.detalTime	
