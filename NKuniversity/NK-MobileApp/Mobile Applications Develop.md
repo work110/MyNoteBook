@@ -24,29 +24,9 @@ AI（bigdata）
 
 
 
-# android
-
-完全开源，无需审核缴费，覆盖平台广泛-手机，平板等
-
-版本号主要以零食名为主
-
-
-
-## 手机设备的软件栈
-
-操作系统
-
-中间件
-
-应用程序
-
-
-
-## android体系结构
+# android体系结构
 
 内核：linux内核 2.6版本，位于硬件与软件中抽象层
-
-
 
 系统类库：媒体库，高级语言库，数据库，图形库
 
@@ -72,7 +52,7 @@ dvm-apk包dex（改为zip，之后可以获得解压源文件）
 
 
 
-## android应用框架
+### android应用框架
 
 activity
 
@@ -84,17 +64,39 @@ content provide
 
 
 
-## android常用组件包
+### android常用组件包
 
 android。xxx
 
 
 
+# 开发环境搭建
+
+## Android SDK Manager
+
+Tool  安卓sdk的开发工具路径 有需要可以配知道path中
+
+platforms 下载的Android开发支持版本
+
+Add-ones 新工具路径
 
 
 
+## Android集成环境开发工具包
+
+下载地址 dl.google,com/android/adt/adt-bundle-windows-x86.zip
 
 
+
+## Path
+
+我的电脑-属性-高级-环境变了-path
+
+把tools文件夹路径添加到其中；
+
+
+
+## Android Studio
 
 
 
