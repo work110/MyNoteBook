@@ -18,9 +18,9 @@
 
 ## 2】ios-unity项目更改
 
-### 1】system Sample Rate =48000
+### 1】检查system Sample Rate ≠48000
 
-在ios项目中，更改 【projectsetting-》audio-》system Sample Rate =48000】
+在ios项目中，更改 【projectsetting-》audio-》system Sample Rate ≠48000】
 
 
 
@@ -124,6 +124,8 @@ public class IosProjectScript : UnityEngine.MonoBehaviour {
 ### 7】导入xcode工程
 
 ### 8】bitcode=NO
+
+【可能用不到】
 
 修改【project-》unity-iphone-》build setting 】中搜索【bitcode】设置为NO
 
